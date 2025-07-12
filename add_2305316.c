@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main()
+{
+int a=100;
+int b=200;
+int c=a+b;
+printf("Addition of %d and %d is %d",a,b,c);
+return 0;
+}
+
